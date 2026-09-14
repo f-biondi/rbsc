@@ -1,6 +1,6 @@
 # Scaling Weisfeiler–Leman Expressiveness Analysis
 
-Tests code for the paper "Scaling Weisfeiler–Leman Expressiveness Analysis to Massive Graphs with GPUs". the datasets flickr, yelp, reddit and all of the datasets for the SR multicore implementation are not included for space limitations while datasets from the LAW collection are downloaded at runtime by the test scripts.
+Experiments code for the paper "Scaling Weisfeiler–Leman Expressiveness Analysis to Massive Graphs with GPUs". the datasets flickr, yelp, reddit and all of the datasets for the SR multicore implementation are not included for space limitations while datasets from the LAW collection are downloaded at runtime by the test scripts.
 
 # Requirements
 - CUDA version >= 12.8 (a device with compute capability >=9 is required) 
